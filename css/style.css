@@ -11,3 +11,24 @@ button{
     bottom: 388px; 
     left: 0px;
 }
+.slider-1{
+    background-image: url(/images/slider-1.jpg);
+    display: block ;
+    width: 100%; 
+    background-size: cover;
+    border-radius: 7px;
+}
+.slider-2{
+    background-image: url(/images/slider-2.jpg);
+    display: block ;
+    width: 100%; 
+    background-size: cover;
+    border-radius: 7px;
+}
+.slider-3{
+    background-image: url(/images/slider-3.jpg);
+    display: block ;
+    width: 100%; 
+    background-size: cover;
+    border-radius: 7px;
+}
